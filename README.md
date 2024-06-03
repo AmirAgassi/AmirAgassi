@@ -22,18 +22,6 @@
 </a>
 </p>
 
-#### Personal Tools
-
-<p align="center">
-<a href="https://github.com/AmirAgassi/Twitch-AdSpy">
-<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amiragassi&repo=Twitch-AdSpy&border_color=00FFFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00FFFF" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/AmirAgassi/OpenChatGPT">
-<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amiragassi&repo=OpenChatGPT&border_color=00FFFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00FFFF" />
-</a>
-</p>
-
 #### Projects I've Worked On
 
 <p align="center">
