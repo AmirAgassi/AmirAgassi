@@ -1,3 +1,5 @@
+https://trial.cards/ | https://identify.cards/ | https://amiragassi.github.io/Advanced-Phone-Lookup/ | http://freefileconvert.online/
+
 #### Telecommunications
 
 <p align="center">
