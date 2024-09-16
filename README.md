@@ -1,5 +1,5 @@
 #### Sites I maintain
-https://www.quickreports.me/ | https://trial.cards/
+https://www.quickreports.me/ | https://trial.cards/ | https://identify.cards/ | https://amiragassi.com
 
 #### Projects I've Worked On
 
