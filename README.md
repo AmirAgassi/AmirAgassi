@@ -12,3 +12,5 @@ https://www.quickreports.me/ | https://www.tempinbox.es/ | https://trial.cards/ 
 <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LaurierCS&repo=website&border_color=7B68EE&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7B68EE" />
 </a>
 </p>
+
+TODO: Update ^ this
